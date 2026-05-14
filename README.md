@@ -32,7 +32,7 @@ IPL dataset from 2008–2025.
 
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshots 2026-5-15 001918.png)
+![Dashboard Preview](Screenshots%202026-5-15%20001918.png)
 
 ## Author
 Akansha Walia
